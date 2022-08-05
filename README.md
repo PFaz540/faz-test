@@ -1,5 +1,7 @@
 # faz-test
 
+A playground for API Test Framework ideas using the [Unofficial Pokemon API](https://pokeapi.co/docs/v2)
+
 ## Install all the dependencies
 ``` 
 npm install
