@@ -1,0 +1,18 @@
+# Vs Code Specific Files:
+!.vscode/launch.json
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Logs
+*.log
+*.txt
+logs/
+
+# MAC OS Specific
+.DS_Store
